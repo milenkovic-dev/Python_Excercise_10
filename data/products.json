@@ -1,0 +1,62 @@
+[
+  {
+    "naziv": "Laptop Lenovo ThinkPad E14",
+    "cena": 85000,
+    "kolicina": 5,
+    "stanje": "Novo"
+  },
+  {
+    "naziv": "Miš Logitech G102",
+    "cena": 3500,
+    "kolicina": 12,
+    "stanje": "Novo"
+  },
+  {
+    "naziv": "Tastatura HyperX Alloy Core",
+    "cena": 6500,
+    "kolicina": 8,
+    "stanje": "Novo"
+  },
+  {
+    "naziv": "Monitor Samsung 24\"",
+    "cena": 22000,
+    "kolicina": 4,
+    "stanje": "Novo"
+  },
+  {
+    "naziv": "SSD Samsung 1TB",
+    "cena": 9500,
+    "kolicina": 7,
+    "stanje": "Novo"
+  },
+  {
+    "naziv": "USB-C Hub UGREEN",
+    "cena": 4500,
+    "kolicina": 10,
+    "stanje": "Polovno"
+  },
+  {
+    "naziv": "Web kamera Logitech C920",
+    "cena": 11000,
+    "kolicina": 6,
+    "stanje": "Novo"
+  },
+  {
+    "naziv": "Slušalice Sony WH-CH520",
+    "cena": 7000,
+    "kolicina": 9,
+    "stanje": "Novo"
+  },
+  {
+    "naziv": "Wi-Fi ruter TP-Link Archer C6",
+    "cena": 5500,
+    "kolicina": 3,
+    "stanje": "Polovno"
+  },
+  {
+    "naziv": "Power bank Xiaomi 20000mAh",
+    "cena": 4000,
+    "kolicina": 15,
+    "stanje": "Novo"
+  }
+]
