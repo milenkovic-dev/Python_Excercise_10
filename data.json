@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Milos Milenkovic",
+        "age": 25,
+        "height": 186,
+        "gender": "male"
+    },
+    {
+        "name": "Pavle Djordjevic",
+        "age": 25,
+        "height": 183,
+        "gender": "male"
+    },
+    {
+        "name": "Lana Marcetic",
+        "age": 20,
+        "height": 178,
+        "gender": "female"
+    },
+    {
+        "name": "Petar Petrovic",
+        "age": 35,
+        "height": 190,
+        "gender": "male"
+    },
+    {
+        "name": "Petar Petrovic",
+        "age": 35,
+        "height": 190,
+        "gender": "male"
+    }
+]
